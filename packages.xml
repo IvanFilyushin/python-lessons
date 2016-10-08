@@ -40030,7 +40030,7 @@
         <entry key="googl-python" value="" />
         <entry key="google" value="" />
         <entry key="google-analytics-api-wrapper" value="" />
-        <entry key="google-api-python-client" value="" />
+        <entry key="google-api-python-client" value="1.5.3" />
         <entry key="google-api-python-client-py3" value="" />
         <entry key="google-api-python-client-uritemplate" value="" />
         <entry key="google-api-wrapper" value="" />
@@ -76310,7 +76310,7 @@
         <entry key="simplehttpmonitor" value="" />
         <entry key="simpleinput" value="" />
         <entry key="simpleirc" value="" />
-        <entry key="simplejson" value="" />
+        <entry key="simplejson" value="3.8.2" />
         <entry key="simplejsonrpc" value="" />
         <entry key="simplekit" value="" />
         <entry key="simplekml" value="" />
@@ -85065,7 +85065,7 @@
         <entry key="urilib" value="" />
         <entry key="uriref" value="" />
         <entry key="uriregistry" value="" />
-        <entry key="uritemplate" value="" />
+        <entry key="uritemplate" value="3.0.0" />
         <entry key="uritemplate.py" value="" />
         <entry key="uritool" value="" />
         <entry key="uritools" value="" />
